@@ -1,3 +1,16 @@
+# MARKDOWN HOW TOs
+
+### insert image
+
+Save image on google drive
+Make image public
+Copy share link
+Paste share link into [direct download link builder](https://sites.google.com/site/gdocs2direct/home) to get direct download link
+
+Paste link in markdown img html tag
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

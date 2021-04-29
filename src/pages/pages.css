@@ -1,17 +1,33 @@
 .post {
-    width: 40%;
+    max-width: 600px;
     margin: auto;
+}
+
+.post figure {
+    max-width: 600px;
+    margin: 1em 0;
+}
+
+.post img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post p {
+   text-align: justify;
 }
 
 
 .postlist {
-    width: 40%;
+    max-width: 600px;
     margin: auto;
     text-align: center;
 }
 
 .page-content {
-    width: 40%;
+    max-width: 600px;
     margin: auto;
     text-align: center;
 }

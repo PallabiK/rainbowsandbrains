@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom'; // HashRouter is for deploy
+// import { BrowserRouter as Router, Route } from 'react-router-dom'; // BrowserRouter is for dev only
 import './index.css';
 import Home from './pages/Home';
 import About from './pages/About';
