@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rainbowsandbrains/static/css/main.6c57f09c.chunk.css",
-    "main.js": "/rainbowsandbrains/static/js/main.39a38ad6.chunk.js",
-    "main.js.map": "/rainbowsandbrains/static/js/main.39a38ad6.chunk.js.map",
+    "main.css": "/rainbowsandbrains/static/css/main.bb96504f.chunk.css",
+    "main.js": "/rainbowsandbrains/static/js/main.8efc606f.chunk.js",
+    "main.js.map": "/rainbowsandbrains/static/js/main.8efc606f.chunk.js.map",
     "runtime-main.js": "/rainbowsandbrains/static/js/runtime-main.5e138d7c.js",
     "runtime-main.js.map": "/rainbowsandbrains/static/js/runtime-main.5e138d7c.js.map",
-    "static/js/2.985b4c05.chunk.js": "/rainbowsandbrains/static/js/2.985b4c05.chunk.js",
-    "static/js/2.985b4c05.chunk.js.map": "/rainbowsandbrains/static/js/2.985b4c05.chunk.js.map",
+    "static/js/2.5370ce15.chunk.js": "/rainbowsandbrains/static/js/2.5370ce15.chunk.js",
+    "static/js/2.5370ce15.chunk.js.map": "/rainbowsandbrains/static/js/2.5370ce15.chunk.js.map",
     "index.html": "/rainbowsandbrains/index.html",
-    "static/css/main.6c57f09c.chunk.css.map": "/rainbowsandbrains/static/css/main.6c57f09c.chunk.css.map",
-    "static/js/2.985b4c05.chunk.js.LICENSE.txt": "/rainbowsandbrains/static/js/2.985b4c05.chunk.js.LICENSE.txt"
+    "static/css/main.bb96504f.chunk.css.map": "/rainbowsandbrains/static/css/main.bb96504f.chunk.css.map",
+    "static/js/2.5370ce15.chunk.js.LICENSE.txt": "/rainbowsandbrains/static/js/2.5370ce15.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5e138d7c.js",
-    "static/js/2.985b4c05.chunk.js",
-    "static/css/main.6c57f09c.chunk.css",
-    "static/js/main.39a38ad6.chunk.js"
+    "static/js/2.5370ce15.chunk.js",
+    "static/css/main.bb96504f.chunk.css",
+    "static/js/main.8efc606f.chunk.js"
   ]
 }
