@@ -6,14 +6,16 @@ const PostCard = ({post}) => {
 
     return (
         <div className="post-card">
-            <h2>{post.title}</h2>
-                <small>Published on {post.date} by {post.author}</small>
-            <hr/>
             <figure className="image">
-                <img src={post.title_img} alt={post.title} />
+                <a href={`#/post/${post.slug}`}>
+                    <img src={post.title_img} alt={post.title} />
+                </a>
+                <figcaption>
+                <div>{post.date} by {post.author}</div>
+                <Link className="post-card-link" to={`/post/${post.slug}`}>Read more...</Link> 
+                </figcaption>
             </figure>
-            
-            <Link className="links" to={`/post/${post.slug}`}>Read more...</Link>            
+                       
         </div>
     )
 }

@@ -8,6 +8,7 @@ const About = () => {
     return (
         <Layout>
             <div className = "page-content">
+            <h1 className="title">About Rainbows and Brains</h1>
                 <Markdown children={aboutText[0].content} rehypePlugins={[rehypeRaw]} />
             </div>
         </Layout>

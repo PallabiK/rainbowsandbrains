@@ -3,14 +3,10 @@ title: What is RainbowsandBrains?
 author: PK
 date: September 19, 2020
 slug: what-is-rainbowsandbrains
-title_img: https://drive.google.com/uc?export=download&id=1L-_idpxNDQxWf9ZAhO4X-KyhloC8PmaS
+title_img: https://drive.google.com/uc?export=download&id=1PwOdwJ6fON-o8RxSXv9ZcL7qYzHmQ-Zv
 ---
 
 Growing up in a huge congested city, for the longest time, I thought rainbows were probably a myth. Or something that only people who are really lucky can see.
-
-<figure class="image">
-  <img src="https://drive.google.com/uc?export=download&id=1PwOdwJ6fON-o8RxSXv9ZcL7qYzHmQ-Zv" alt="Title: What is rainbows and brains">
-</figure>
 
 One day when I was 12, on my way back from school on the school bus, I, suddenly, heard other students sitting behind me shout and run to the back window. When I made out what they were saying, I realized one of them saw a rainbow. I looked out of my nearest window and all I could see were buildings. I tried to go to the back window of the bus but there was already a crowd. After a minute or so, everyone went back to their seats. I felt this hollow that I missed it and I might never have a chance to see another rainbow ever again.
 

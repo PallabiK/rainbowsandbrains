@@ -3,17 +3,11 @@ title: How Does SCIENCE Happen?
 author: PK
 date: September 20, 2020
 slug: how-does-science-happen
-title_img: https://drive.google.com/uc?export=download&id=1ixDALYxbWU2oRJvhewVAm5Lv8r4-Xx5I
+title_img: https://drive.google.com/uc?export=download&id=13Vpsn9FVuLC3E29RCJxGkufFLtZDzY2E
 ---
 
 
 Did you change a light bulb recently? Or kept a plant alive on your window sill? Chances are, you used the scientific method.
-
-
-<figure class="image">
-  <img src="https://drive.google.com/uc?export=download&id=13Vpsn9FVuLC3E29RCJxGkufFLtZDzY2E" alt="Title: How does science happen?">
-</figure>
-
 
 When was the last time you thought about science? There will be a wide range of answers. As a scientist in the making, the answer for me will be now writing this article. If I was watching a movie, I might not focus on it. But every equipment/technique that goes into the procedure of making a movie, does require science.
 

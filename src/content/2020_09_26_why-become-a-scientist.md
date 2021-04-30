@@ -3,17 +3,11 @@ title: Why Become a SCIENTIST?
 author: PK
 date: September 26, 2020
 slug: why-become-a-scientist
-title_img: https://drive.google.com/uc?export=download&id=1aiBVn4wtuHYQP_eHEPEoNN2N9P5ixd46
+title_img: https://drive.google.com/uc?export=download&id=1wwidKxrm3cOLp_dqr27Ch-_62OkyPWl1
 ---
 
 
 As a child, I was often asked, ‘What do you want to become when you grow up?’ This was a reality check for me, realizing what you HAVE to be something when you grow up. Why?
-
-<figure class="image">
-  <img src="https://drive.google.com/uc?export=download&id=1wwidKxrm3cOLp_dqr27Ch-_62OkyPWl1">
-</figure>
-
-
 
 When I was 11, I thought of 5 options that I could ‘be’ – a detective, a doctor, a dancer, a scientist or an astronaut. As I grew older, the only option that remained was being a doctor as that was a family expectation. However, in the deepest of my desires, I did not want that for myself. I wanted to explore and not have specific responsibilities in someone’s life. Of course, that seems a little escapist now but I wanted to explore the world and explore the life in it. That will be a future talking point.
 
