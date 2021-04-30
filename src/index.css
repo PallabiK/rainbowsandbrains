@@ -32,6 +32,23 @@ body {
   }
 } 
 
+.iframe-video {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.iframe-responsive {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
 hr.style-rainbow {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -45,3 +62,5 @@ hr.style-rainbow {
   background: -ms-linear-gradient(-45deg, #ff0000 0%,#ffff00 25%,#00ff00 50%,#00ffff 75%,#0000ff 100%);
   background: linear-gradient(-45deg, #ff0000 0%,#ffff00 25%,#00ff00 50%,#00ffff 75%,#0000ff 100%);
 }
+
+

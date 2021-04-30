@@ -8,6 +8,6 @@ This blog holds up the knowledge, views and observations of a Bengali grad stude
 
 Here is some info about me and my blog in the form of a video:
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+<div className="iframe-video">
+    <iframe className="iframe-responsive" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+<div className="video">
