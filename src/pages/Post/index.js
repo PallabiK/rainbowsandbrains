@@ -1,8 +1,8 @@
 import React from 'react'
 import { Redirect } from 'react-router-dom'
 import Layout from '../../components/Layout'
-import NextPost from '../../components/NextPost'
-import Social from '../../components/Social'
+import NextPost from '../../components/NextPost/index.js'
+import Social from '../../components/Social/index.js'
 import postlist from '../../posts.json'
 import Markdown from "react-markdown"
 import rehypeRaw from 'rehype-raw'
@@ -23,6 +23,7 @@ const Post = (props) => {
                 <Layout>
                     
                     <PostContainer>
+                        <NextPost post={fetchedPost}/>
                         <PostHeader>
                             <figure className="image">
                                 <img src={fetchedPost.title_img} alt={fetchedPost.title} />

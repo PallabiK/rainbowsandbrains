@@ -12,29 +12,13 @@ h1 {
 }
 
 
-
-.navbar {
-    display:flex;
-    justify-content: center;
-}
-
-
 .links {
     text-decoration: none;
     color: brown;
     margin: 20px;
+
 }
 
-
-.header {
-    background: navy;
-    color: lightblue;
-    padding: 10px 20px;
-}
-
-.footer {
-    text-align: center;
-}
 
 
 .title {
@@ -70,8 +54,3 @@ h1 {
     color: #333;
 }
 
-
-.social-buttons {
-    display: flex;
-    justify-content: space-between;
-}
