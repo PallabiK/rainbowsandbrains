@@ -57,7 +57,8 @@ async function getPosts () {
             date: metadata.date ? metadata.date : "No date given",
             content: content ? content : "No content given",
             slug: metadata.slug ? metadata.slug : timestamp,
-            title_img: metadata.title_img ? metadata.title_img: "No image given"
+            title_img: metadata.title_img ? metadata.title_img: "No image given",
+            description:  metadata.description ? metadata.description : metadata.title
         }
 
         postlist.push(post)
