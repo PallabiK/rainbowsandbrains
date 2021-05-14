@@ -5,7 +5,7 @@ import "./pages.css"
 const NotFound = () => {
     return (
         <Layout>
-            <h1 className="notfound">The page you are looking for does not exist </h1>
+            <h1 className="notfound">The page you are looking for does not exist... </h1>
         </Layout>
     )
 }

@@ -8,6 +8,8 @@ import Markdown from "react-markdown"
 import rehypeRaw from 'rehype-raw'
 //import "./pages.css"
 import { PostContainer, PostHeader, PostBody, PostFooter } from './PostElements'
+import Helmet from 'react-helmet'
+
 
 const Post = (props) => {
 
@@ -21,7 +23,15 @@ const Post = (props) => {
 
     return (
                 <Layout>
-                    
+                    <Helmet>
+                        <title> {`R&B - ${fetchedPost.title}`} </title>
+                        <meta name={fetchedPost.title} content={fetchedPost.description} />
+                        <meta property="og:url"          content={thisPage} />
+                        <meta property="og:type"         content="article" />
+                        <meta property="og:title"        content={fetchedPost.title} />
+                        <meta property="og:description"  content={fetchedPost.description} />
+                        <meta property="og:image"        content={fetchedPost.title_img} />
+                    </Helmet>
                     <PostContainer>
                         <NextPost post={fetchedPost}/>
                         <PostHeader>

@@ -7,10 +7,6 @@ import {SocialSection, SocialButtons} from './SocialElements'
 
 
 const Social = ({page}) => {
-
-    console.log(page)
-
-
     return (
         <SocialSection>
             <small>Like this article? Feel free to share!</small>

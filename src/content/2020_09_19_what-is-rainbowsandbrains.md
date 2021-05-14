@@ -4,6 +4,7 @@ author: PK
 date: September 19, 2020
 slug: what-is-rainbowsandbrains
 title_img: https://drive.google.com/uc?export=download&id=1PwOdwJ6fON-o8RxSXv9ZcL7qYzHmQ-Zv
+description: In this article, I will describe the origin story of my blog 'Rainbows and Brains'
 ---
 
 Growing up in a huge congested city, for the longest time, I thought rainbows were probably a myth. Or something that only people who are really lucky can see.
