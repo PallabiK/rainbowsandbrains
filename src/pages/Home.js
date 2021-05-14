@@ -7,7 +7,8 @@ const Home = () => {
     return (
         <div>
             <Layout>
-                <h1 className="title">Recent Blog Posts</h1>
+                <h2 className="title">Recent Posts</h2>
+                <br/>
                 <PostList/>
             </Layout>
         </div>

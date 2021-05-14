@@ -54,3 +54,30 @@ h1 {
     color: #333;
 }
 
+.paginationBtns {
+    margin: 20px auto 10px auto;
+    width: 80%;
+    height: 1rem;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.paginationBtns a {
+    padding: 0.2rem 0.6rem;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid #333;
+    color: #333;
+    cursor: pointer;
+}
+
+.paginationBtns a:hover {
+    color: white;
+    background-color: #333;
+}
+
+.paginationActive a {
+    color: white;
+    background-color: #333;
+}
