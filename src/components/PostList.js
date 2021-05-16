@@ -8,40 +8,42 @@ import { faChevronRight, faChevronLeft } from '@fortawesome/free-solid-svg-icons
 
 const PostList = () => {
 
-    const [posts, setPosts] = useState(postlist)
+
     const [pageNumber, setPageNumber] = useState(0)
 
-    const postsPerPage = 2
+    const postsPerPage = 5
     const pagesVisited = pageNumber * postsPerPage
 
-    const displayPosts = posts
+    const displayPosts = postlist
         .slice(pagesVisited, pagesVisited + postsPerPage)
         .map((post, i) => {
             return <PostCard post={post} key={i}/>
         })
 
-    const pageCount = Math.ceil(posts.length / postsPerPage)
+    const pageCount = Math.ceil(postlist.length / postsPerPage)
 
     const changePage = ({selected}) => {
         setPageNumber(selected)
     }
 
-    return (
-        <div className="postlist">
-            { posts.length && displayPosts }
-            <ReactPaginate
-                previousLabel={<FontAwesomeIcon icon={faChevronLeft} />}
-                nextLabel={<FontAwesomeIcon icon={faChevronRight} />}
-                pageCount={pageCount}
-                onPageChange={changePage}
-                containerClassName={"paginationBtns"}
-                previousLinkClassName = {"previousBtn"}
-                nextLinkClassName = {"nextBtn"}
-                disabledClassName = {"paginationDisabled"}
-                activeClassName = {"paginationActive"}
-            />
-        </div>
-    )
+            return (
+            
+                <div className="postlist">
+                    { postlist.length && displayPosts }
+                    <ReactPaginate
+                        previousLabel={<FontAwesomeIcon icon={faChevronLeft} />}
+                        nextLabel={<FontAwesomeIcon icon={faChevronRight} />}
+                        pageCount={pageCount}
+                        onPageChange={changePage}
+                        containerClassName={"paginationBtns"}
+                        previousLinkClassName = {"previousBtn"}
+                        nextLinkClassName = {"nextBtn"}
+                        disabledClassName = {"paginationDisabled"}
+                        activeClassName = {"paginationActive"}
+                    />
+                </div>
+            )
+        
 }
 
 export default PostList

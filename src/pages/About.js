@@ -3,6 +3,8 @@ import Markdown from "react-markdown"
 import rehypeRaw from 'rehype-raw'
 import aboutText from "../pages.json"
 import Layout from "../components/Layout"
+import Helmet from 'react-helmet'
+
 
 const About = () => {
     return (

@@ -1,10 +1,8 @@
 import styled from 'styled-components'
-import { NavLink as Link } from 'react-router-dom'
-
 
 
 export const PostContainer = styled.div`
-    max-width: 600px;
+    max-width: 650px;
     margin: auto;
     padding: 20px;
     padding-top: 0px;

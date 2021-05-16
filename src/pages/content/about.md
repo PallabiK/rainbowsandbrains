@@ -8,4 +8,4 @@ Here is some info about me and my blog in the form of a video:
 
 <div className="iframe-video">
     <iframe className="iframe-responsive" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
-<div className="video">
+</div>

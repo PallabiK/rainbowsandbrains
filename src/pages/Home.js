@@ -12,7 +12,7 @@ const Home = () => {
                 <meta name="Rainbows and Brains - Blog" content="Welcome to Rainbows and Brains!"/>
             </Helmet>
             <Layout>
-                <h2 className="title">Recent Posts</h2>
+                <h1 className="title">Recent Posts</h1>
                 <br/>
                 <PostList/>
             </Layout>
