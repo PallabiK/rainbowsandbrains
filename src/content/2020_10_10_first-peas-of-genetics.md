@@ -78,9 +78,12 @@ What happened next? Who isolated DNA? What experiments were done to find out mor
 
 ### FOR MORE INFORMATION:
 
-Mendel, Gregor. 1866. Versuche über Pflanzenhybriden. Verhandlungen des naturforschenden Vereines in Brünn, Bd. IV für das Jahr 1865, Abhandlungen, 3–47.
-http://www.esp.org/foundations/genetics/classical/gm-65.pdf
-Bateson, W., & Mendel, G. (2009). Mendel’s Principles of Heredity: A Defence, with a Translation of Mendel’s Original Papers on Hybridisation (Cambridge Library Collection – Darwin, Evolution and Genetics). Cambridge: Cambridge University Press.
-https://www.cambridge.org/core/books/mendels-principles-of-heredity/0CD46D51C55DABB0E019DDE3607FADD2
-Mendelian Genetics. Genetics Generation. https://tinyurl.com/y5y8hbwu
-Mendelian Inheritance https://en.wikipedia.org/wiki/Mendelian_inheritance
+<div class="references">
+<div></div>
+
+- [Mendel, Gregor. 1866. Versuche über Pflanzenhybriden. Verhandlungen des naturforschenden Vereines in Brünn, Bd. IV für das Jahr 1865, Abhandlungen, 3–47.](http://www.esp.org/foundations/genetics/classical/gm-65.pdf)
+- [Bateson, W., & Mendel, G. (2009). Mendel’s Principles of Heredity: A Defence, with a Translation of Mendel’s Original Papers on Hybridisation (Cambridge Library Collection – Darwin, Evolution and Genetics). Cambridge: Cambridge University Press.](https://www.cambridge.org/core/books/mendels-principles-of-heredity/0CD46D51C55DABB0E019DDE3607FADD2)
+- [Mendelian Genetics. Genetics Generation.](https://tinyurl.com/y5y8hbwu)
+- [Mendelian Inheritance](https://en.wikipedia.org/wiki/Mendelian_inheritance)
+
+</div>

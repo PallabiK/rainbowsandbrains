@@ -7,7 +7,7 @@ title_img: https://drive.google.com/uc?export=download&id=1mB4O5nVk4crBx7VRQHzdN
 description: This is a birthday message for PK.
 ---
 
-Dearest PK,
+Esteemed PK,
 
 For this year's birthday I am proud to present the new look of Rainbows and Brains!
 
@@ -34,7 +34,7 @@ For a nice text editor, check out [VS code](https://code.visualstudio.com/downlo
 
 ### how to create a new post
 
-To create a new post, start a new Markdown (.md) file in the RNB>src>content folder. The file that holds this post here is found in RNB/src/content/2021_05_23_happy-birthday.md
+To create a new post, start a new Markdown (.md) file in the **RNB>src>content** folder. The file that holds this post here is found in **RNB/src/content/2021_05_23_happy-birthday.md**
 
 You can fill out some form fields at the top of the file with the metadata about the post, such as the title, author, date created, title image etc. Look at the Markdown file for an example.
 
@@ -62,11 +62,11 @@ Lastly, you can deploy the latest blog bost to publish it
 ### how to insert images
 
 To insert an image, upload it to google drive in the folder that goes with your blog post.
-The folder for this post would be "2021_05_23_happy-birthday"
+The folder for this post would be **"2021_05_23_happy-birthday"**.
 
-Next, copy the share link for the image and go to the [Google Drive Direct Download Link Generator](https://sites.google.com/site/gdocs2direct/home) to turn it into (you guessed it) a direct download link. (This may sound a bit complicated, but shut up it's free!)
+Next, copy the share link for the image and go to the [Google Drive Direct Download Link Generator](https://sites.google.com/site/gdocs2direct/home) to turn it into (you guessed it) a direct download link. This may sound a bit complicated, but shut up it's free!
 
-Once you have the direct download link, you can create a figure html tag in the Markdown document and paste it as the source of the image
+Once you have the direct download link, you can create a **figure html** tag in the Markdown document and paste it as the source of the image. (Check the example in this .md file)
 
 
 <figure class="image">
@@ -76,19 +76,19 @@ Once you have the direct download link, you can create a figure html tag in the 
 
 
 
-> Tip: to make the page load faster, head over to [TinyPNG](https://tinypng.com/) and compress your png image. works with jpeg too!
+> Tip: to make the page load faster, head over to [TinyPNG](https://tinypng.com/) and compress your png image. Works with jpeg too!
 
 
 ### how to insert a video
 
-To embed a youtube video, you can write an iframe html tag. (Check the example in this .md file). As the video source you want to type "https://www.youtube.com/embed/VIDEO_ID".
+To embed a youtube video, you can write an **iframe html** tag. (Check the example in this .md file). As the video source you want to type "https://www.youtube.com/embed/VIDEO_ID".
 
 <div className="iframe-video">
     <iframe className="iframe-responsive" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
 </div>
 
 
-Or if you want to specify start and end time, simply add "?start=START_SECONDS&end=END_SECONDS" to the video url. (Check the .md file again)
+Or if you want to specify start and end time, simply add **"?start=START_SECONDS&end=END_SECONDS"** to the video url. (Check the .md file again)
 
 <div className="iframe-video">
     <iframe className="iframe-responsive" src="https://www.youtube.com/embed/tgbNymZ7vqY?start=52&end=108"></iframe>
@@ -101,6 +101,8 @@ Markdown can do a lot more to make your posts look pretty.
 Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) to learn how to format things.
 
 
-Have fun with the new website!
+Happy Birthday & Have fun with the new website!
+
+I shall be of assistance in the likely case that the styling looks awful and there are a million bugs.
 
 -MM

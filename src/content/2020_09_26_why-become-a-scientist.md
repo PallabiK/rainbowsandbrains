@@ -51,5 +51,10 @@ The pursuit of knowledge and truth that scientists embark on is not always easy;
 The victory of adding a tiny part of information to the vast repository of science makes being a scientist and everything that comes along worth it.
 
 ### FOR MORE INFORMATION:
-Singer, C. 1921. What is Science? The Britain Medical Journal 1(3156): 954.
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2415517/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2415517/)
+
+<div class="references">
+<div></div>
+
+- [Singer, C. 1921. What is Science? The Britain Medical Journal 1(3156): 954.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2415517/)
+
+</div>

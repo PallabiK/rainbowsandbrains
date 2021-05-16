@@ -12,6 +12,7 @@
 }
 
 h1, h2, h3 {
+  margin-top: 2rem;
   font-weight: bold;
   font-family: 'Merriweather Sans', sans-serif;
 }
@@ -48,6 +49,9 @@ body {
     font-size: 16px;
   }
 } 
+
+strong { font-weight: bold; }
+
 
 .iframe-video {
   position: relative;
@@ -100,3 +104,36 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+ol, ul{
+  margin-left: 0;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+ol li {
+  counter-increment: muffins
+}
+ol li:before {
+  display: inline-block;
+  width: 2rem;
+  margin-left: -2rem;
+  content: counter(muffins) ". ";
+  font-weight: bold;
+}
+ol {
+  list-style: none;
+  counter-reset: muffins;
+}
+
+.references {
+  font-size: 75%;
+  line-height: 1.5rem;
+}
+.references li{
+  margin-bottom: 1rem;
+  list-style-type: square;
+}
+

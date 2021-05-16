@@ -59,11 +59,14 @@ So, how did DNA get ‘confirmed’ as the genetic material? Who finally solved 
 
 ### FOR MORE INFORMATION:
 
-Maderspacher, F. 2004. Rags before the riches: Friedrich Miescher and the discovery of DNA. Current Biology 14(15).  https://www.cell.com/fulltext/S0960-9822(04)00543-3
-Jones, M. E. 1953. Albrecht Kossel, A Biographical Sketch. Yale Journal of Biology and Medicine. 1953 Sep; 26(1): 80–97. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2599350/?page=3
-SEEKS LIFE’S SECRET IN STUDY OF CELLS; Prof. Albrecht Kossel of Heidelberg Comes to Lecture at Johns Hopkins University” The New York Times 27 August 1911
-https://www.nytimes.com/1911/08/27/archives/seeks-lifes-secret-in-study-of-cells-prof-albrecht-kossel-of.html
-Griffith, F. 1928. The Significance of Pneumococcal Types. Journal of Hygeine (London) XXVII. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2167760/?page=1
-Avery, O. T., Macleod, C. M. and McCarty, M. 1944. Studies on the chemical nature of the substance inducing transformation of Pneumococcal types: Induction of transformation by a deoxyribonucleic acid fraction isolated from Pneumococcus Type III. Journal of Experimental Medicine. 79 (2): 137–158.
-https://rupress.org/jem/article/79/2/137/4753/STUDIES-ON-THE-CHEMICAL-NATURE-OF-THE-SUBSTANCE
-Classic experiments: DNA as the genetic material. Khan Academy.https://www.khanacademy.org/science/biology/dna-as-the-genetic-material/dna-discovery-and-structure/a/classic-experiments-dna-as-the-genetic-material
+<div class="references">
+<div></div>
+
+- [Maderspacher, F. 2004. Rags before the riches: Friedrich Miescher and the discovery of DNA. Current Biology 14(15).](https://www.cell.com/fulltext/S0960-9822(04)00543-3)
+- [Jones, M. E. 1953. Albrecht Kossel, A Biographical Sketch. Yale Journal of Biology and Medicine. 1953 Sep; 26(1): 80–97.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2599350/?page=3)
+- [SEEKS LIFE’S SECRET IN STUDY OF CELLS; Prof. Albrecht Kossel of Heidelberg Comes to Lecture at Johns Hopkins University” The New York Times 27 August 1911](https://www.nytimes.com/1911/08/27/archives/seeks-lifes-secret-in-study-of-cells-prof-albrecht-kossel-of.html)
+- [Griffith, F. 1928. The Significance of Pneumococcal Types. Journal of Hygeine (London) XXVII.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2167760/?page=1)
+- [Avery, O. T., Macleod, C. M. and McCarty, M. 1944. Studies on the chemical nature of the substance inducing transformation of Pneumococcal types: Induction of transformation by a deoxyribonucleic acid fraction isolated from Pneumococcus Type III. Journal of Experimental Medicine. 79 (2): 137–158.](https://rupress.org/jem/article/79/2/137/4753/STUDIES-ON-THE-CHEMICAL-NATURE-OF-THE-SUBSTANCE)
+- [Classic experiments: DNA as the genetic material. Khan Academy.](https://www.khanacademy.org/science/biology/dna-as-the-genetic-material/dna-discovery-and-structure/a/classic-experiments-dna-as-the-genetic-material)
+
+</div>

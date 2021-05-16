@@ -12,7 +12,7 @@ export const Nextpost = styled.div`
 
     @media(hover: hover) {
         & .links:hover {
-            color: #ff0000;
+            color: #c00001;
         }
     }
 `

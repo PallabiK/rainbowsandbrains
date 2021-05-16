@@ -47,19 +47,19 @@ Let’s take an everyday life example.
 </figure>
 
 
-Observation: Your car won’t start.
+**Observation:** Your car won’t start.
 
-Question: Why won’t the car start?
+**Question:** Why won’t the car start?
 
-Hypothesis: There is no gas in the car.
+**Hypothesis:** There is no gas in the car.
 
-Prediction: If you put in more gas, the car will start.
+**Prediction:** If you put in more gas, the car will start.
 
-Experiment: You went to the gas station, got more gas in a container and filled up the gas tank.
+**Experiment:** You went to the gas station, got more gas in a container and filled up the gas tank.
 
-Results: The car still won’t start.
+**Results:** The car still won’t start.
 
-Alternate hypothesis: The car battery is dead.
+**Alternate hypothesis:** The car battery is dead.
 
 Now, here is an important concept to understand about the scientific method. A hypothesis is an educated guess from previous background knowledge. But your first guess is likely not to be the correct explanation for your question. After experimentation, when you figure that out, there is no shame in rejecting your hypothesis and forming an alternate hypothesis. Sometimes, it might require focusing and thinking hard to come up with a different explanation. And for scientists, this whole process could be repeated countless times before they find the right answer and can show it. Often, scientists do not do it just by themselves. More on that later.
 
@@ -75,5 +75,9 @@ Here’s to Science, the incessant pursuit of truth and knowledge!
 
 ### FOR MORE INFORMATION:
 
-Thorndike, L. 1914. Roger Bacon and experimental methods in the middle ages. The Philosophical Review 23(3): 271-298
-[https://www.jstor.org/stable/2178622?seq=1#metadata_info_tab_contents](https://www.jstor.org/stable/2178622?seq=1#metadata_info_tab_contents)
+<div class="references">
+<div></div>
+
+- [Thorndike, L. 1914. Roger Bacon and experimental methods in the middle ages. The Philosophical Review 23(3): 271-298](https://www.jstor.org/stable/2178622?seq=1#metadata_info_tab_contents)
+
+</div>

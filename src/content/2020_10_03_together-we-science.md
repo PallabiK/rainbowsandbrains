@@ -54,21 +54,19 @@ We need to truly cherish the collaborative nature of science along with the fasc
 
 ### FOR MORE INFORMATION:
 
-Isaac Newton: The man who discovered gravity 
-https://www.bbc.co.uk/teach/isaac-newton-the-man-who-discovered-gravity/zh8792p
-Edward Jenner https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/
-August Kekulé https://en.wikipedia.org/wiki/August_Kekul%C3%A9#Benzene
-Meaning of serendipity: https://www.merriam-webster.com/dictionary/serendipitous
-Chernobyl, HBO miniseries. https://www.hbo.com/chernobyl 
-https://en.wikipedia.org/wiki/Chernobyl_(miniseries)
-Chernobyl: 7 People Who Played a Crucial Role in the World’s Worst Nuclear Disaster
-https://www.history.com/news/chernobyl-nuclear-disaster-7-people-who-played-crucial-role
-Newton, I. 1687. Philosophiæ naturalis principia mathematica (Adv.b.39.1) 
-https://cudl.lib.cam.ac.uk/view/PR-ADV-B-00039-00001/46
-Back to the Future, 1985. https://www.backtothefuture.com/
-https://en.wikipedia.org/wiki/Back_to_the_Future
-Rufus, W. C. 1942. The Motion of the Heavenly Bodies. 
-http://articles.adsabs.harvard.edu/full/1942PA…..50..128R
-Singer, C. 1921. What is Science? The Britain Medical Journal 1(3156): 954.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2415517/
-Traore, N. and Landry, R. On the Determinants of Scientists’ Collaboration. Science Communication 19(2): 124-140. https://journals.sagepub.com/doi/pdf/10.1177/1075547097019002002
+<div class="references">
+<div></div>
+
+- [Isaac Newton: The man who discovered gravity](https://www.bbc.co.uk/teach/isaac-newton-the-man-who-discovered-gravity/zh8792p)
+- [Edward Jenner](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/)
+- [August Kekulé](https://en.wikipedia.org/wiki/August_Kekul%C3%A9#Benzene)
+- [Meaning of serendipity](https://www.merriam-webster.com/dictionary/serendipitous)
+- [Chernobyl, HBO miniseries](https://www.hbo.com/chernobyl)
+- [Chernobyl: 7 People Who Played a Crucial Role in the World’s Worst Nuclear Disaster](https://www.history.com/news/chernobyl-nuclear-disaster-7-people-who-played-crucial-role)
+- [Newton, I. 1687. Philosophiæ naturalis principia mathematica (Adv.b.39.1)](https://cudl.lib.cam.ac.uk/view/PR-ADV-B-00039-00001/46)
+- [Back to the Future, 1985.](https://www.backtothefuture.com)
+- [Rufus, W. C. 1942. The Motion of the Heavenly Bodies](http://articles.adsabs.harvard.edu/full/1942PA…..50..128R)
+- [Singer, C. 1921. What is Science? The Britain Medical Journal 1(3156): 954.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2415517/)
+- [Traore, N. and Landry, R. On the Determinants of Scientists’ Collaboration. Science Communication 19(2): 124-140.](https://journals.sagepub.com/doi/pdf/10.1177/1075547097019002002)
+
+</div>

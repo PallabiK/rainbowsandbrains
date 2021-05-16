@@ -29,6 +29,30 @@ export const PostBody = styled.div`
         margin-bottom: 2rem;
     }
 
+    /* unvisited link */
+    a:link {
+        color: #cc5801;
+        text-decoration: none;
+    }
+
+    /* visited link */
+    a:visited {
+        color: #cc5801;
+        text-decoration: none;
+    }
+
+    /* mouse over link */
+    a:hover {
+        color: #c00001;
+        text-decoration: underline;
+    }
+
+    /* selected link */
+    a:active {
+        color: #c00001;
+        text-decoration: underline;
+    }
+
 `
 
 export const PostFooter = styled.div`
