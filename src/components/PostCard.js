@@ -11,7 +11,7 @@ const PostCard = ({post}) => {
                     <img src={post.title_img} alt={post.title} />
                 </a>
                 <figcaption>
-                <div>{post.date} by {post.author}</div>
+                <div className="post-info">{post.date} by {post.author}</div>
                 <Link className="post-card-link" to={`/post/${post.slug}`}>Read more...</Link> 
                 </figcaption>
             </figure>

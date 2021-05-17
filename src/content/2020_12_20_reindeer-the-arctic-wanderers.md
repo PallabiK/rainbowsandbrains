@@ -31,7 +31,7 @@ Reindeer are deer and are closely related to cows and sheep. They live in herds 
 Reindeer are the only deer in which females also grow antlers. Male reindeer have the second-largest antlers in the deer family, right after moose. Their antlers can be as tall as 135 cm which can be higher than their bodies (~120cm). Reindeer have the largest antler height when compared to body height among deer. Reindeer lose their antlers every year and regrow them in the summer months. The presence of antlers in females is indicative of better health. The calves of antlered-females are often healthier as well. In males, the antlers are used as weapons and are used to dominate other males.
 
 <figure class="image">
-  <img style="max-width: 300px;" src="https://drive.google.com/file/d/1ZPrxaCWdUleBiSzxfi8STtrPsgXh8vEh/view?usp=sharing">
+  <img style="max-width: 300px;" src="https://drive.google.com/uc?export=download&id=1ZPrxaCWdUleBiSzxfi8STtrPsgXh8vEh">
   <figcaption>The majestic Reindeer, the arctic wanderers. Photo by Frans Van Heerden from Pexels.</figcaption>
 </figure>
 

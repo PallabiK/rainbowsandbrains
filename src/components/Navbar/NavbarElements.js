@@ -6,7 +6,7 @@ export const Nav = styled.nav`
     display: flex;
     justify-content: space-between;
     padding: 0.5rem calc((100vw - 1000px) / 2);
-    margin-top: 20px;
+    margin-top: 2rem;
     z-index: 10;
     margin-bottom: 30px;
 
@@ -24,6 +24,8 @@ export const Nav = styled.nav`
 `
 
 export const NavLink = styled(Link)`
+    font-family: 'Caveat', cursive;
+    font-size: 200%;
     color: mediumblue;
     display: flex;
     align-items: center;

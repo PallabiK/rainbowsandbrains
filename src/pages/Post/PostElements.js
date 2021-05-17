@@ -4,8 +4,6 @@ import styled from 'styled-components'
 export const PostContainer = styled.div`
     max-width: 650px;
     margin: auto;
-    padding: 20px;
-    padding-top: 0px;
 
     & img {
         max-width: 100%;

@@ -15,6 +15,7 @@ const About = () => {
             </Helmet>
             <div className = "page-content">
             <h1 className="title">About Rainbows and Brains</h1>
+                <br/>
                 <Markdown children={aboutText[0].content} rehypePlugins={[rehypeRaw]} />
             </div>
         </Layout>

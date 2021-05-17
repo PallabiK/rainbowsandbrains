@@ -51,6 +51,7 @@ const Post = (props) => {
                             <hr className="style-rainbow"/>
                             <Social page={thisPage}/>
                             <hr className="style-rainbow"/>
+                            <br/>
                             <NextPost post={fetchedPost}/>
                         </PostFooter>
                     </PostContainer>
