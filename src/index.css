@@ -33,10 +33,14 @@ h4 {
 }
 
 code {
-  margin-left: 20px;
+  display: inline-block;
+  margin-left: 2rem;
   font-family: 'Roboto Mono', monospace;
   font-weight: bold;
   color: #000;
+  background-color: #f0f0f0;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 figcaption {

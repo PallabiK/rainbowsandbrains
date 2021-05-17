@@ -50,9 +50,11 @@ Then you can open a preview.
 
 If you are happy with everything you can save your changes to github
 
-    git add -A
-    git commit -m "added new blog post"
-    git push
+```
+git add -A
+git commit -m "added new blog post"
+git push
+```
 
 Lastly, you can deploy the latest blog bost to publish it
 
