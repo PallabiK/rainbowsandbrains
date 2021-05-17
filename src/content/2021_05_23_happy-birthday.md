@@ -16,7 +16,7 @@ For this year's birthday I am proud to present the new look of Rainbows and Brai
 You will find the following features included in this birthday present:
 
 1. A fully functional website with home page, about page and separate pages for each blog post
-2. An easy way to produce and upload blog posts using Markdown
+2. An easy way to produce and upload blog posts using markdown
 3. Full control over the appearance of the website (change the CSS at will!)
 4. Free website hosting on github and free image hosting on google drive (you only pay for domain name)
 
@@ -34,9 +34,9 @@ For a nice text editor, check out [VS code](https://code.visualstudio.com/downlo
 
 ### how to create a new post
 
-To create a new post, start a new Markdown (.md) file in the **RNB>src>content** folder. The file that holds this post here is found in **RNB/src/content/2021_05_23_happy-birthday.md**
+To create a new post, start a new markdown (.md) file in the **RNB>src>content** folder. The file that holds this post here is found in **RNB/src/content/2021_05_23_happy-birthday.md**
 
-You can fill out some form fields at the top of the file with the metadata about the post, such as the title, author, date created, title image etc. Look at the Markdown file for an example.
+You can fill out some form fields at the top of the file with the metadata about the post, such as the title, author, date created, title image etc. Look at the markdown file for an example.
 
 Once you have written a new post, open the terminal, go to the RNB folder, then run the server script:
 
@@ -66,7 +66,7 @@ The folder for this post would be **"2021_05_23_happy-birthday"**.
 
 Next, copy the share link for the image and go to the [Google Drive Direct Download Link Generator](https://sites.google.com/site/gdocs2direct/home) to turn it into (you guessed it) a direct download link. This may sound a bit complicated, but shut up it's free!
 
-Once you have the direct download link, you can create a **figure html** tag in the Markdown document and paste it as the source of the image. (Check the example in this .md file)
+Once you have the direct download link, you can create a **figure html** tag in the markdown document and paste it as the source of the image. (Check the example in this .md file)
 
 
 <figure class="image">
@@ -101,7 +101,7 @@ Markdown can do a lot more to make your posts look pretty.
 Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) to learn how to format things.
 
 
-Happy Birthday & Have fun with the new website!
+Happy birthday & have fun with the new website!
 
 I shall be of assistance in the likely case that the styling looks awful and there are a million bugs.
 

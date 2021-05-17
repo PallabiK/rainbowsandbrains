@@ -38,8 +38,7 @@ const Post = (props) => {
                             <figure className="image">
                                 <img src={fetchedPost.title_img} alt={fetchedPost.title} />
                             </figure>
-                            <small>By {fetchedPost.author} | {fetchedPost.date}</small>
-                            <br/>
+                            <figcaption className="post-info" >{fetchedPost.date} by {fetchedPost.author}</figcaption>
                             <hr className="style-rainbow"/>
                             
                         </PostHeader>

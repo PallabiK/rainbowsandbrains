@@ -33,15 +33,9 @@ export const NavLink = styled(Link)`
     padding: 2px 2rem;
     height: 100%;
     cursor: pointer;
-
-    /* & > img {
-        max-width: 0.25vw;
-    } */
-
     &.active {
         color: brown;
         font-weight: 800;
-
     }
 `
 

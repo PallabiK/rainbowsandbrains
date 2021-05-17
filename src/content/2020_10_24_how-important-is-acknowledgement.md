@@ -71,7 +71,7 @@ Women in science have had a long struggle. I am sure there are countless women l
 
 Acknowledgment is as important as representation in Science. They both go hand-in-hand in some ways. If you want to study science, go for it. With your uniqueness, you will be an inspiration for the next generation.
 
-### FOR MORE INFORMATION:
+#### FOR MORE INFORMATION:
 
 <div class="references">
 <div></div>

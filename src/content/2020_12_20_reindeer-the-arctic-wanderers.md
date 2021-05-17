@@ -65,7 +65,7 @@ Reindeer are currently a vulnerable population. With global warming, their habit
 
 This holiday season, take some time to learn about these remarkable animals (check out any of the links below). Let me know what you found to be most fascinating and what questions or hypotheses you came up with about reindeer!
 
-### FOR MORE INFORMATION:
+#### FOR MORE INFORMATION:
 
 <div class="references">
 <div></div>

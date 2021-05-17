@@ -91,7 +91,7 @@ Compared to similarly priced fuel, one liter of kerosene will only last 2 days w
 
 I find it highly exciting that a middle school science project can one day be a solution to the world’s energy crisis despite being farfetched. Till that day comes, try to power a bulb, an LED strip, or a clock with some veggies on your own kitchen table.
 
-### FOR MORE INFORMATION:
+#### FOR MORE INFORMATION:
 
 <div class="references">
 <div></div>

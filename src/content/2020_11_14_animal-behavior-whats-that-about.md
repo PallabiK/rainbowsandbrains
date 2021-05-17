@@ -64,7 +64,7 @@ Next time you observe an animal and you have a question, use Google Scholar to f
 
 Maybe your hypothesis will be the one supported by experimental results!
 
-### FOR MORE INFORMATION:
+#### FOR MORE INFORMATION:
 
 <div class="references">
 <div></div>

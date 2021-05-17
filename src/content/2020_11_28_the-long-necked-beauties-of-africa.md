@@ -78,7 +78,7 @@ It is likely that the long necks of giraffes evolved with a mix of both hypothes
 
 Giraffes are fascinating creatures that tower over everything in the grasslands of Africa. There is much more information about them out there. I highly recommend following one of the links below to find out more about giraffes. After all these long-necked beauties deserve our love and attention.
 
-### FOR MORE INFORMATION:
+#### FOR MORE INFORMATION:
 
 <div class="references">
 <div></div>

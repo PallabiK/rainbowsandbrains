@@ -76,7 +76,7 @@ Mendel’s peas led to one of the first steps to understanding DNA and how it wo
 
 What happened next? Who isolated DNA? What experiments were done to find out more about DNA? What about its structure? Find out in the upcoming weeks.
 
-### FOR MORE INFORMATION:
+#### FOR MORE INFORMATION:
 
 <div class="references">
 <div></div>

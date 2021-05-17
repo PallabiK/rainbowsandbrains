@@ -57,7 +57,7 @@ Though these experiments supported that DNA was the ‘transforming principle’
 
 So, how did DNA get ‘confirmed’ as the genetic material? Who finally solved the structure of DNA? Find out in the next post!
 
-### FOR MORE INFORMATION:
+#### FOR MORE INFORMATION:
 
 <div class="references">
 <div></div>

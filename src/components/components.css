@@ -33,7 +33,9 @@
 
 .post-info, .post-card-link {
     font-family: 'Caveat', cursive;
+    font-size: 1rem;
     font-size: 140%;
+    text-align: left;
 }
 
 

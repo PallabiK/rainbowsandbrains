@@ -71,9 +71,9 @@ Now, here is an important concept to understand about the scientific method. A h
 
 So, the next time you are faced with a situation, say your washing machine does not work or your garden is full of flowers that you did not plant, think about the process of science. Remember, you do not have to succeed and resolve the situation on your first try or alone, there is always an alternate hypothesis and many other minds to join forces with.
 
-Here’s to Science, the incessant pursuit of truth and knowledge!
+*Here’s to Science, the incessant pursuit of truth and knowledge!*
 
-### FOR MORE INFORMATION:
+#### FOR MORE INFORMATION:
 
 <div class="references">
 <div></div>
