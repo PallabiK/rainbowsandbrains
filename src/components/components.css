@@ -69,12 +69,19 @@
     cursor: pointer;
 }
 
-.paginationBtns a:hover {
-    color: white;
-    background-color: #333;
-}
 
 .paginationActive a {
     color: white;
     background-color: #333;
 }
+
+@media (hover: hover) { 
+
+    .paginationBtns a:hover, a:hover svg {
+        color: white;
+        background-color: #333;
+    }
+
+}
+
+

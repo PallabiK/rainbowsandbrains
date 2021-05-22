@@ -102,9 +102,12 @@ Markdown can do a lot more to make your posts look pretty.
 
 Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) to learn how to format things.
 
+### Last things to do
+
+Come find me so that we can change the weird github address to *rainbowsandbrains.com*. Once this is done we can fix the post-to-post links that are still missing and everything should be ready.
+
+I shall also be of assistance in the likely case that the styling looks awful and there are a million bugs.
 
 Happy birthday & have fun with the new website!
-
-I shall be of assistance in the likely case that the styling looks awful and there are a million bugs.
 
 -MM
