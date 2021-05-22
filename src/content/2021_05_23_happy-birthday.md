@@ -56,7 +56,7 @@ git commit -m "added new blog post"
 git push
 ```
 
-Lastly, you can deploy the latest blog bost to publish it
+Lastly, you can deploy the latest blog post to publish it
 
     npm run deploy
 
