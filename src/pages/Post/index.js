@@ -30,7 +30,7 @@ const Post = (props) => {
                         <meta property="og:type"         content="article" />
                         <meta property="og:title"        content={fetchedPost.title} />
                         <meta property="og:description"  content={fetchedPost.description} />
-                        <meta property="og:image"        content={fetchedPost.title_img} />
+                        <meta property="og:image:secure_url"        itemprop="image" content={fetchedPost.title_img} />
                     </Helmet>
                     <PostContainer>
                         <NextPost post={fetchedPost}/>
