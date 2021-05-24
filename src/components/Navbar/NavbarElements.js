@@ -24,8 +24,8 @@ export const Nav = styled.nav`
 `
 
 export const NavLink = styled(Link)`
-    font-family: 'Caveat', cursive;
-    font-size: 200%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
     color: mediumblue;
     display: flex;
     align-items: center;
@@ -33,9 +33,9 @@ export const NavLink = styled(Link)`
     padding: 2px 2rem;
     height: 100%;
     cursor: pointer;
+    font-weight: 600;
     &.active {
         color: brown;
-        font-weight: 800;
     }
 `
 
