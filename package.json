@@ -2,7 +2,7 @@
   "name": "rnb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pallabik.github.io/rainbowsandbrains",
+  "homepage": "https://www.rainbowsandbrains.com",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
