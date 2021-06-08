@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <div>
             <Helmet>
-                <title> R&amp;B - Blog </title>
+                <title> rnb Blog </title>
                 <meta name="Rainbows and Brains - Blog" content="Welcome to Rainbows and Brains!"/>
             </Helmet>
             <Layout>
